@@ -1,23 +1,22 @@
 # Hi, I'm Abdullah Salimee 👋
 
-**Full-Stack Developer** who enjoys crushing tough projects and building beautiful, high-performance web apps.
+**Full-Stack Developer** who turns tough problems into beautiful, lightning-fast web experiences.
 
 ---
 
-### About Me
-I create clean, modern, and intuitive web experiences using the latest technologies.
+I craft pixel-perfect UIs and robust full-stack applications with passion. Currently building smart solutions powered by AI and smooth automation.
 
-### Currently Working On
-Smart full-stack applications with AI, automation, and pixel-perfect UIs.
-
-### Tools & Technologies
+**Tools I Love**  
 React • Next.js • Svelte • Tailwind • shadcn/ui • Supabase • Node.js • n8n • AI Agents • Figma
 
-### Let's Connect
+---
+
+**Let's build something great together!**
+
 - 📧 [your.email@example.com](mailto:your.email@example.com)
 - 💼 [LinkedIn](https://linkedin.com/in/abdullahsalimee)
 - 🌐 [Portfolio](https://yourportfolio.com)
 
 ---
 
-*Clean code • Beautiful UIs • Smart solutions*
+*Clean code. Stunning interfaces. Clever ideas.*
