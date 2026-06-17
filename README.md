@@ -13,7 +13,7 @@ React • Next.js • Svelte • Tailwind • shadcn/ui • Supabase • Node.js
 
 **Let's build something great together!**
 
-- 📧 [your.email@example.com](mailto:your.email@example.com)
+- 📧 [abdullaharifsalimee@gmail.com](mailto:abdullaharifsalimee@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/abdullahsalimee)
 - 🌐 [Portfolio](https://yourportfolio.com)
 
