@@ -14,9 +14,7 @@ React • Next.js • Svelte • Tailwind • shadcn/ui • Supabase • Node.js
 **Let's build something great together!**
 
 - 📧 [abdullaharifsalimee@gmail.com](mailto:abdullaharifsalimee@gmail.com)
-- 💼 [LinkedIn](https://linkedin.com/in/abdullahsalimee)
-- 🌐 [Portfolio](https://yourportfolio.com)
-
+- GRAPHIX URL : https://graphix-pro.netlify.app/
 ---
 
 *Clean code. Stunning interfaces. Clever ideas.*
