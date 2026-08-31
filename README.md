@@ -1,5 +1,8 @@
 # Hi, I'm Abdullah Salimee 👋
 
+
+- GRAPHIX URL : https://graphix-pro.netlify.app/app
+
 **Full-Stack Developer** who turns tough problems into beautiful, lightning-fast web experiences.
 
 ---
@@ -14,7 +17,6 @@ React • Next.js • Svelte • Tailwind • shadcn/ui • Supabase • Node.js
 **Let's build something great together!**
 
 - 📧 [abdullaharifsalimee@gmail.com](mailto:abdullaharifsalimee@gmail.com)
-- GRAPHIX URL : https://graphix-pro.netlify.app/
 ---
 
 *Clean code. Stunning interfaces. Clever ideas.*
